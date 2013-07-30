@@ -1,0 +1,7 @@
+D:\Work\IMKSDH\New2013\TestingProjects\UnitTesting\NUnitConsoleApplication01\TestProject\bin\Debug\TestProject.dll
+D:\Work\IMKSDH\New2013\TestingProjects\UnitTesting\NUnitConsoleApplication01\TestProject\bin\Debug\TestProject.pdb
+D:\Work\IMKSDH\New2013\TestingProjects\UnitTesting\NUnitConsoleApplication01\TestProject\bin\Debug\NUnitConsoleApplication01.exe
+D:\Work\IMKSDH\New2013\TestingProjects\UnitTesting\NUnitConsoleApplication01\TestProject\bin\Debug\NUnitConsoleApplication01.pdb
+D:\Work\IMKSDH\New2013\TestingProjects\UnitTesting\NUnitConsoleApplication01\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+D:\Work\IMKSDH\New2013\TestingProjects\UnitTesting\NUnitConsoleApplication01\TestProject\obj\Debug\TestProject.dll
+D:\Work\IMKSDH\New2013\TestingProjects\UnitTesting\NUnitConsoleApplication01\TestProject\obj\Debug\TestProject.pdb

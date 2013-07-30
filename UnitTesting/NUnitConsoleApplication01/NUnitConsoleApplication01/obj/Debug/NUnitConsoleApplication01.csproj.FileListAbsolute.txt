@@ -1,0 +1,4 @@
+D:\Work\IMKSDH\New2013\TestingProjects\UnitTesting\NUnitConsoleApplication01\NUnitConsoleApplication01\bin\Debug\NUnitConsoleApplication01.exe
+D:\Work\IMKSDH\New2013\TestingProjects\UnitTesting\NUnitConsoleApplication01\NUnitConsoleApplication01\bin\Debug\NUnitConsoleApplication01.pdb
+D:\Work\IMKSDH\New2013\TestingProjects\UnitTesting\NUnitConsoleApplication01\NUnitConsoleApplication01\obj\Debug\NUnitConsoleApplication01.exe
+D:\Work\IMKSDH\New2013\TestingProjects\UnitTesting\NUnitConsoleApplication01\NUnitConsoleApplication01\obj\Debug\NUnitConsoleApplication01.pdb
